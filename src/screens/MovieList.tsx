@@ -10,7 +10,6 @@ import { fetchMovies, setMoviesInitial } from "../actions";
 import SearchBox from "../components/SearchBox";
 import Filters from "../components/Filters";
 import Grid from "../components/Grid";
-import MovieItem from "../components/MovieItem";
 import Paginator from "../components/Paginator";
 
 const MovieList = () => {
