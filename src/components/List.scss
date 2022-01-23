@@ -1,0 +1,51 @@
+.list-container {
+  .list-header {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 25px;
+
+    .scroller {
+      display: flex;
+      width: 60px;
+      justify-content: space-between;
+    }
+
+    .title {
+      font-weight: bold;
+    }
+
+    .btn {
+      font-size: 30px;
+      cursor: pointer;
+
+      &.disabled {
+        cursor: unset;
+        color: #999;
+      }
+    }
+  }
+
+  &.horizontal {
+    .list-body {
+      display: flex;
+      justify-content: space-between;
+
+      img {
+        width: 265px;
+        border-radius: 5px;
+        height: 302px;
+      }
+
+      .name {
+        margin: 20px 0 5px 0;
+        font-weight: bold;
+        font-size: 14px;
+      }
+
+      .character {
+        font-size: 14px;
+        color: #999;
+      }
+    }
+  }
+}

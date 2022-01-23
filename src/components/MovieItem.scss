@@ -1,0 +1,23 @@
+.movie-item {
+  cursor: pointer;
+
+  img {
+    width: 200px;
+    height: 280px;
+    border-radius: 5px;
+  }
+
+  .movie-title {
+    font-weight: bold;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    width: 200px;
+    overflow: hidden;
+    margin: 10px 0;
+  }
+
+  .movie-date {
+    color: #999;
+    font-size: 14px;
+  }
+}

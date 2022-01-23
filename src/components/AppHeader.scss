@@ -1,0 +1,21 @@
+.header-container {
+  display: flex;
+  margin: 15px 30px;
+  justify-content: space-between;
+
+  .title {
+    font-weight: bold;
+    color: #6855d6;
+  }
+
+  .nav-items {
+    display: flex;
+    justify-content: space-between;
+    width: 200px;
+
+    .nav-item {
+      color: #000;
+      text-decoration: none;
+    }
+  }
+}
