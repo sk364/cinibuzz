@@ -1,0 +1,30 @@
+.movies-container {
+  .sub-header {
+    width: 818px;
+    margin: 87px auto 0 auto;
+
+    .sub-header-text {
+      font-size: 24px;
+      margin-bottom: 40px;
+    }
+  }
+
+  .block-ui-container {
+    text-align: center;
+    position: absolute;
+    width: 908px;
+    left: 470px;
+    height: 2110px;
+    background: #eee;
+    top: 350px;
+    opacity: 0.5;
+
+    .block-ui-message {
+      margin-top: 505px;
+    }
+
+    .loading-bullet {
+      font-size: 40px;
+    }
+  }
+}
