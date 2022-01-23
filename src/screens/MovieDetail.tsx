@@ -73,7 +73,7 @@ const MovieDetail = ({ match }) => {
   };
 
   const handleMovieClick = (movieId) => {
-    navigate(`/${movieId}`);
+    navigate(`/cinibuzz/${movieId}`);
   };
 
   const rating = voteAvg * 10;

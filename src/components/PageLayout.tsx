@@ -13,15 +13,15 @@ const PageLayout = ({ children }: Props) => {
   const navItems: NavItem = [
     {
       label: "Movies",
-      route: "/",
+      route: "/cinibuzz",
     },
     {
       label: "TV Shows",
-      route: "/tv",
+      route: "/cinibuzz/tv",
     },
     {
       label: "Kids",
-      route: "/kids",
+      route: "/cinibuzz/kids",
     }
   ];
 
