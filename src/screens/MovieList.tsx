@@ -126,7 +126,7 @@ const MovieList = () => {
   };
 
   const handleMovieClick = (movieId) => {
-    navigate(`/${movieId}`);
+    navigate(`/cinibuzz/${movieId}`);
   };
 
   const isLoading = movies?.type === Loading;

@@ -28,8 +28,8 @@ ReactDOM.render(
     <BrowserRouter>
       <PageLayout>
         <Routes>
-          <Route path="/" element={<MovieList />} />
-          <Route path="/:id" element={<MovieDetail />} />
+          <Route path="/cinibuzz" element={<MovieList />} />
+          <Route path="/cinibuzz/:id" element={<MovieDetail />} />
           <Route path="*" element={<NoMatch />} />
         </Routes>
       </PageLayout>
