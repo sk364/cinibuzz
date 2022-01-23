@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cinibuzz/static/css/main.cf3ea075.css",
+    "main.js": "/cinibuzz/static/js/main.122eb734.js",
+    "index.html": "/cinibuzz/index.html",
+    "main.cf3ea075.css.map": "/cinibuzz/static/css/main.cf3ea075.css.map",
+    "main.122eb734.js.map": "/cinibuzz/static/js/main.122eb734.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf3ea075.css",
+    "static/js/main.122eb734.js"
+  ]
+}
