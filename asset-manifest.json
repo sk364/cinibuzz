@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/cinibuzz/static/css/main.cf3ea075.css",
+    "main.css": "/cinibuzz/static/css/main.cb91b51c.css",
     "main.js": "/cinibuzz/static/js/main.eb1e1ddb.js",
     "index.html": "/cinibuzz/index.html",
-    "main.cf3ea075.css.map": "/cinibuzz/static/css/main.cf3ea075.css.map",
+    "main.cb91b51c.css.map": "/cinibuzz/static/css/main.cb91b51c.css.map",
     "main.eb1e1ddb.js.map": "/cinibuzz/static/js/main.eb1e1ddb.js.map"
   },
   "entrypoints": [
-    "static/css/main.cf3ea075.css",
+    "static/css/main.cb91b51c.css",
     "static/js/main.eb1e1ddb.js"
   ]
 }
